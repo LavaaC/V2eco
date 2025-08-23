@@ -1,0 +1,7 @@
+{
+  "name": "Sampleland",
+  "industries": [
+    {"name": "Steel", "employees": 1200},
+    {"name": "Textiles", "employees": 800}
+  ]
+}
