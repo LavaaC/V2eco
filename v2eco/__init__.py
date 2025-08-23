@@ -1,3 +1,3 @@
 """Core package for v2eco utilities."""
 
-__all__ = ["parser", "analyzer", "cli"]
+__all__ = ["parser", "analyzer", "cli", "models", "io", "metrics"]
